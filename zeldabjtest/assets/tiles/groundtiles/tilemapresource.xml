@@ -7,7 +7,7 @@
       <Origin x="0.00000000000000" y="-30000.00000000000000"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="1.00000000000000" order="0"/>
+        <TileSet href="0" units-per-pixel="256.00000000000000" order="0"/>
       </TileSets>
     </TileMap>
     
