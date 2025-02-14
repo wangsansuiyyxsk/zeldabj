@@ -5,10 +5,9 @@
       <SRS></SRS>
       <BoundingBox minx="0.00000000000000" miny="-30000.00000000000000" maxx="36000.00000000000000" maxy="0.00000000000000"/>
       <Origin x="0.00000000000000" y="-30000.00000000000000"/>
-      <TileFormat width="512" height="512" mime-type="image/png" extension="png"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="0" units-per-pixel="512.00000000000000" order="0"/>
-        <TileSet href="1" units-per-pixel="256.00000000000000" order="1"/>
+        <TileSet href="0" units-per-pixel="1.00000000000000" order="0"/>
       </TileSets>
     </TileMap>
     
