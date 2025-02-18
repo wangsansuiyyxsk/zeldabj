@@ -4,7 +4,7 @@
       <Abstract>Beijing version Zelda game map</Abstract>
       <SRS></SRS>
       <BoundingBox minx="0.00000000000000" miny="-30000.00000000000000" maxx="36000.00000000000000" maxy="0.00000000000000"/>
-      <Origin x="0.00000000000000" y="-30000.00000000000000"/>
+      <Origin x="0.00000000000000" y="-0.00000000000000"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
         <TileSet href="0" units-per-pixel="256.00000000000000" order="0"/>
